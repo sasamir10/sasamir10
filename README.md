@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sabbir Ahmed
+### Hi there 👋, I'm Sabbir Ahmed Samir
 #### Front-End Developer
 ![Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
