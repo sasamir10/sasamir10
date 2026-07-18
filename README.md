@@ -6,7 +6,9 @@
   </a>
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
+![Profile views] <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasamir10" alt="sasamir10" /></a> </p>
 
