@@ -1,8 +1,7 @@
 <img width="1376" height="657" alt="Github banner3" src="https://github.com/user-attachments/assets/b0fb88a5-0477-41c9-825a-f9cccd1bb3f2" />
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sabbir+Ahmed....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=32&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Sabbir+Ahmed+Samir;MERN+Stack+Developer;Building+Scalable+Web+Applications;React+•+Next.js+•+Node.js+•+MongoDB" />
 </h1>
 <h3 align="center">A passionate software developer(MERN) from BD</h3>
 
