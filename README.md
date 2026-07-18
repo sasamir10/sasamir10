@@ -1,6 +1,10 @@
 <img width="1376" height="688" alt="Github banner1" src="https://github.com/user-attachments/assets/70fd6e60-d4b1-4ed3-b225-d4bf6333a587" />
 
-<h1 align="center">Hi 👋, I'm Sabbir Ahmed Samir</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Sabbir+Ahmed....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate software developer(MERN) from BD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
