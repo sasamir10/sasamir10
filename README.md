@@ -1,4 +1,4 @@
-<img width="1376" height="657" alt="Github banner3" src="https://github.com/user-attachments/assets/b0fb88a5-0477-41c9-825a-f9cccd1bb3f2" />
+<img width="1814" height="867" alt="ChatGPT Image Jul 18, 2026, 01_52_48 PM" src="https://github.com/user-attachments/assets/7019f73a-12d6-407a-abe0-f2284e620cf2" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
