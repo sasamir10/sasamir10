@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-![Profile views] <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 
