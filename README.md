@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Sabbir+Ahmed+Samir;MERN+Stack+Developer;Building+Scalable+Web+Applications">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Sabbir+Ahmed+Samir;Front+End+Developer;Crafting+Modern+Web+Interfaces">
   </a>
 </h1>
 
@@ -18,17 +18,11 @@
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
-### Backend and Database
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
+![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=cursor)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasamir10" alt="sasamir10" /></a> </p>
 
