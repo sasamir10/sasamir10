@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Sabbir+Ahmed+Samir;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies">
+    <img src="https://readme-typing-svg.herokuapp.com/?size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Sabbir+Ahmed+Samir;MERN+Stack+Developer;Building+Scalable+Web+Applications">
   </a>
 </h1>
 <h3 align="center">A passionate software developer(MERN) from BD</h3>
