@@ -5,9 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Sabbir+Ahmed+Samir;MERN+Stack+Developer;Building+Scalable+Web+Applications">
   </a>
 </h1>
-<h3 align="center">A passionate software developer(MERN) from BD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasamir10" alt="sasamir10" /></a> </p>
 
