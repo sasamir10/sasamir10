@@ -1,4 +1,5 @@
-<img width="1376" height="768" alt="Github banner" src="https://github.com/user-attachments/assets/66e5e957-9640-4995-89c2-f7d058a8669c" />
+<img width="1376" height="688" alt="Github banner1" src="https://github.com/user-attachments/assets/70fd6e60-d4b1-4ed3-b225-d4bf6333a587" />
+
 <h1 align="center">Hi 👋, I'm Sabbir Ahmed Samir</h1>
 <h3 align="center">A passionate software developer(MERN) from BD</h3>
 
