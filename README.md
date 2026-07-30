@@ -32,5 +32,5 @@
 
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sasamir10&theme=holi-theme&hide_border=true&border_radius=6&short_numbers=true&card_width=500&card_height=250" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sasamir10&theme=holi-theme&hide_border=true&border_radius=6&short_numbers=true&card_width=550&card_height=200" alt="GitHub Streak" />
 </p>
