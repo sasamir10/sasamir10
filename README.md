@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
 
-## Tech Stack
+## :computer: Tech Stack
 
 ### Frontend
 
