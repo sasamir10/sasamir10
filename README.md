@@ -30,3 +30,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sasamir10&theme=holi-theme&hide_border=true&border_radius=6&short_numbers=true&card_width=550&card_height=200" alt="GitHub Streak" />
 </p>
+
+## 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasamir10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
