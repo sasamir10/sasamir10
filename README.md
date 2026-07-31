@@ -24,12 +24,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge&logo=cursor)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasamir10&show_icons=true&locale=en&layout=compact" alt="sasamir10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasamir10&show_icons=true&locale=en" alt="sasamir10" /></p>
-
-
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
