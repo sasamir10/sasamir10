@@ -28,6 +28,8 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasamir10&show_icons=true&locale=en" alt="sasamir10" /></p> -->
 
+---
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
