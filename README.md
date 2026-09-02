@@ -35,6 +35,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasamir10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0D3B66&hide_border=true&radius=8" />
 
-## 🌃 3D Contribution Activity
+## 🧊 Isometric Contribution Activity
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<p align="center">
+  <img src="./metrics-isocalendar.svg" alt="Isometric Contribution Calendar" />
+</p>
