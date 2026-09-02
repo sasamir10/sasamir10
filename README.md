@@ -35,22 +35,3 @@
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasamir10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasamir10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0D3B66&hide_border=true&radius=8" />
-
-## 👾 My Contribution Activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sasamir10/sasamir10/output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sasamir10/sasamir10/output/pacman-contribution-graph.svg"
-  />
-
-  <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/sasamir10/sasamir10/output/pacman-contribution-graph.svg"
-  />
-</picture>
