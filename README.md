@@ -35,21 +35,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasamir10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0D3B66&hide_border=true&radius=8" />
 
-## 📈 Contribution Activity
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sasamir10/sasamir10/output/github-contribution-grid-snake-dark.svg"
-  />
+## 🎮 Contribution Activity
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sasamir10/sasamir10/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/sasamir10/sasamir10/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![Breakout Contribution Graph](https://raw.githubusercontent.com/sasamir10/sasamir10/output/breakout-contribution-graph-dark.svg)
