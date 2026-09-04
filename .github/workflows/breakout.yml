@@ -17,30 +17,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate SVG
+      - name: Generate custom SVG
         uses: cyprieng/github-breakout@v1
         with:
           github_username: sasamir10
-          output_path: ./output/
           paddle_color: "#F8FAFC"
           ball_color: "#00D9FF"
           bricks_colors: "#DBEAFE,#60A5FA,#3B82F6,#8B5CF6,#6D28D9"
 
-      - name: Check generated files
-        run: |
-          echo "=== Current directory ==="
-          pwd
-          echo "=== Files ==="
-          find . -maxdepth 3 -type f | sort
-          echo "=== Output directory ==="
-          ls -la output || true
-
-      - name: Move generated SVGs to temp
+      - name: Move generated SVG
         run: |
           mkdir -p /tmp/breakout-images
-
-          cp output/light.svg /tmp/breakout-images/breakout-light.svg
-          cp output/dark.svg /tmp/breakout-images/breakout-dark.svg
           cp output/custom.svg /tmp/breakout-images/breakout-custom.svg
 
       - name: Configure git
@@ -48,15 +35,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and force-push SVGs
+      - name: Commit and force-push SVG
         run: |
           git checkout --orphan github-breakout
           git rm -rf .
 
           mkdir images
-
-          cp /tmp/breakout-images/* images/
+          cp /tmp/breakout-images/breakout-custom.svg images/
 
           git add images
-          git commit -m "chore: update GitHub breakout SVGs"
+          git commit -m "chore: update GitHub breakout SVG"
           git push --force origin github-breakout
