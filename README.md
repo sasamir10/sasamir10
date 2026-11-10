@@ -41,7 +41,13 @@
 
 ## 📊 Activity Graph
 
-<img src="https://raw.githubusercontent.com/sasamir10/sasamir10/output/activity-graph.svg" alt="Activity Graph" width="100%" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/sasamir10/sasamir10/output/activity-graph.svg"
+    alt="Activity Graph"
+    width="850"
+  />
+</div>
 
 ## 📈 Contribution Activity
 
