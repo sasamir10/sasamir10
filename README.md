@@ -41,7 +41,7 @@
 
 ## 📊 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasamir10&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0D3B66&hide_border=true&radius=8" />
+<img src="https://raw.githubusercontent.com/sasamir10/sasamir10/output/activity-graph.svg" alt="Activity Graph" width="100%" />
 
 ## 📈 Contribution Activity
 
