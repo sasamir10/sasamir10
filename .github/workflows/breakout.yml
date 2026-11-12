@@ -1,8 +1,9 @@
+
 name: Generate Breakout SVG
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,10 +21,10 @@ jobs:
       - name: Generate custom SVG
         uses: cyprieng/github-breakout@v1
         with:
-  github_username: sasamir10
-  paddle_color: "#58A6FF"
-  ball_color: "#DBEAFE"
-  bricks_colors: "#0E2A47,#174A7E,#1F6FEB,#388BFD,#58A6FF"
+          github_username: sasamir10
+          paddle_color: "#58A6FF"
+          ball_color: "#DBEAFE"
+          bricks_colors: "#0E2A47,#174A7E,#1F6FEB,#388BFD,#58A6FF"
 
       - name: Move generated SVG
         run: |
