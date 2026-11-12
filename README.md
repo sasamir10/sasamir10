@@ -8,6 +8,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasamir10&label=Profile%20views&color=0e75b6&style=flat" alt="sasamir10" /> </p>
 
+## :bust_in_silhouette: About Me
+
+I'm a frontend-focused developer interested in building well-structured, reliable, and user-centered web applications. I look beyond the interface, focusing on application architecture, component interactions, and maintainable code.
+
+I primarily work with **React, Next.js, TypeScript, and Tailwind CSS**, with a focus on component-driven development, clean code, and responsive design. I also work with **REST APIs, Express.js, and MongoDB** to build applications across the frontend and backend.
+
 ## :computer: Tech Stack
 
 ### Frontend
