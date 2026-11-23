@@ -51,10 +51,11 @@ I primarily work with **React, Next.js, TypeScript, and Tailwind CSS**, with a f
   <img
     src="https://raw.githubusercontent.com/sasamir10/sasamir10/output/activity-graph.svg"
     alt="Activity Graph"
-    width="850"
+    width="750"
   />
 </div>
 
+<!--
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -64,4 +65,5 @@ I primarily work with **React, Next.js, TypeScript, and Tailwind CSS**, with a f
   alt="GitHub Breakout Game"
 />
 
-</div>
+ </div>
+ -->
